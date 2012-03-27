@@ -1,0 +1,13 @@
+{
+  "name":"dirtmile",
+  "description":"An app to collect community feedback & coordinate it on the web using the telephone",
+  "version":"0.0.1",
+  "author":"Garrett Wilkin <garrett.wilkin@gmail.com>",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/garrettwilkin/dirtmile"
+  },
+  "dependencies": {
+    "flatiron": "0.1.16"
+  }
+}
